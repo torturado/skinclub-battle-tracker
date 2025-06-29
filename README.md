@@ -24,3 +24,6 @@ Este script de Tampermonkey te proporciona un tracker en tiempo real directament
 4.  **Guarda el Script**: Ve a `Archivo` > `Guardar` (o presiona `Ctrl + S` / `Cmd + S`).
 5.  **Configura tu Nombre de Usuario**: Abre el script en Tampermonkey y busca la línea `myUsername: 'EvasorFiscal'`. Cambia `'EvasorFiscal'` por tu nombre de usuario exacto en Skin.club.
 6.  **Navega a Skin.club**: Abre o recarga cualquier página de batalla en `https://skin.club/`. El tracker debería aparecer en la esquina superior derecha.
+
+## Ejemplo de Interfaz
+![image](https://github.com/user-attachments/assets/6317a82c-3149-4906-b5cc-2f6b8d280bde)
